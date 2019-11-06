@@ -1,0 +1,5 @@
+# Project exclude paths
+/venv/
+/.idea
+/static
+yolov3.weights
